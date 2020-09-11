@@ -3,7 +3,7 @@ Format: ![Alt Text](url)
 
 # "Non-modellability under the Fundamental Review of the Trading Book (FRTB) framework."
 
-This public repository was created to publish the programming codes for the study "Non-modellability under the Fundamental Review of the Trading Book (FRTB) framework." writed as the Master Thesis for the degree "Master in Statistics for Data Science"
+This public repository was created to publish the programming codes for the study "Non-modellability under the Fundamental Review of the Trading Book (FRTB) framework." written as the Master Thesis for the degree "Master in Statistics for Data Science"
 
 **Author: Rafaela Becerra**
 
